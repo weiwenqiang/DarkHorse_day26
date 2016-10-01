@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <Preference
+        android:key="pre"
+        android:summary="摘要"
+        android:title="标题" />
+    
+    <Preference
+        android:key="sum"
+        android:summary="摘要"
+        android:title="标题" />
+    
+    <Preference
+        android:key="available"
+        android:summary="摘要"
+        android:title="标题" />
+
+</PreferenceScreen>

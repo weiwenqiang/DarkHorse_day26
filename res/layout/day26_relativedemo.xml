@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <Button
+        android:id="@+id/day26_center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:text="@string/day26_center" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/day26_center"
+        android:layout_alignLeft="@id/day26_center"
+        android:layout_alignRight="@id/day26_center"
+        android:text="@string/day26_centera" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@id/day26_center"
+        android:layout_alignRight="@id/day26_center"
+        android:layout_below="@id/day26_center"
+        android:text="@string/day26_centerb" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@id/day26_center"
+        android:layout_alignParentLeft="true"
+        android:layout_alignTop="@id/day26_center"
+        android:layout_toLeftOf="@id/day26_center"
+        android:text="@string/day26_centerl" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@id/day26_center"
+        android:layout_alignParentRight="true"
+        android:layout_alignTop="@id/day26_center"
+        android:layout_toRightOf="@id/day26_center"
+        android:text="@string/day26_centerr" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/day26_center"
+        android:layout_alignParentLeft="true"
+        android:layout_toLeftOf="@id/day26_center"
+        android:text="@string/day26_centeral" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@id/day26_center"
+        android:layout_toLeftOf="@id/day26_center"
+        android:text="@string/day26_centerbl" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/day26_center"
+        android:layout_alignParentRight="true"
+        android:layout_toRightOf="@id/day26_center"
+        android:text="@string/day26_centerar" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_below="@id/day26_center"
+        android:layout_toRightOf="@id/day26_center"
+        android:text="@string/day26_centerbr" />
+
+</RelativeLayout>

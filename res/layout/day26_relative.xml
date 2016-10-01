@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <TextView
+        android:id="@+id/day26_plt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:background="#ff0000"
+        android:text="@string/day26_plt" />
+
+    <TextView
+        android:id="@+id/day26_prt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:background="#ff4400"
+        android:text="@string/day26_prt" />
+
+    <TextView
+        android:id="@+id/day26_pbl"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:background="#ff8800"
+        android:text="@string/day26_pbl" />
+
+    <TextView
+        android:id="@+id/day26_pbr"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:background="#ffcc00"
+        android:text="@string/day26_pbr" />
+
+    <TextView
+        android:id="@+id/day26_ch"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:background="#ffff00"
+        android:text="@string/day26_ch" />
+
+    <TextView
+        android:id="@+id/day26_cv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:background="#ccff00"
+        android:text="@string/day26_cv" />
+
+    <TextView
+        android:id="@+id/day26_cip"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:background="#88ff00"
+        android:text="@string/day26_cip" />
+
+    <TextView
+        android:id="@+id/day26_cbh"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:background="#44ff00"
+        android:text="@string/day26_cbh" />
+
+    <TextView
+        android:id="@+id/day26_crv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:background="#00ff00"
+        android:text="@string/day26_crv" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/day26_plt"
+        android:layout_toRightOf="@id/day26_plt"
+        android:background="#00ff44"
+        android:text="@string/day26_tbr" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/day26_prt"
+        android:layout_toLeftOf="@id/day26_prt"
+        android:background="#00ff88"
+        android:text="@string/day26_tbl" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/day26_pbl"
+        android:layout_toRightOf="@id/day26_pbl"
+        android:background="#00ffcc"
+        android:text="@string/day26_tar" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/day26_pbr"
+        android:layout_toLeftOf="@id/day26_pbr"
+        android:background="#00ffff"
+        android:text="@string/day26_tal" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/day26_ch"
+        android:layout_below="@+id/day26_ch"
+        android:background="#00ccff"
+        android:text="@string/day26_qb" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/day26_cv"
+        android:layout_toRightOf="@+id/day26_cv"
+        android:background="#0088ff"
+        android:text="@string/day26_qr" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/day26_cbh"
+        android:layout_alignLeft="@+id/day26_cbh"
+        android:layout_alignRight="@+id/day26_cbh"
+        android:background="#0044ff"
+        android:text="@string/day26_qtl" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/day26_crv"
+        android:layout_toLeftOf="@+id/day26_crv"
+        android:background="#0000ff"
+        android:text="@string/day26_qrb" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="60dp"
+        android:layout_marginTop="90dp"
+        android:background="#4400ff"
+        android:text="@string/day26_mtl" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginRight="50dp"
+        android:layout_marginTop="80dp"
+        android:background="#8800ff"
+        android:text="@string/day26_mtr" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_marginBottom="100dp"
+        android:layout_marginLeft="50dp"
+        android:background="#cc00ff"
+        android:text="@string/day26_mbl" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginBottom="80dp"
+        android:layout_marginRight="70dp"
+        android:background="#ff00ff"
+        android:text="@string/day26_mbr" />
+
+</RelativeLayout>

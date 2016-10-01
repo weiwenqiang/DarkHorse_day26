@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <Button
+        android:id="@+id/day26_l1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/day26_l1" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/day26_l21"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/day26_l21" />
+
+        <Button
+            android:id="@+id/day26_l22"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/day26_l22" />
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/day26_l3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/day26_l3" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/day26_l41"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/day26_l41" />
+
+        <Button
+            android:id="@+id/day26_l42"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/day26_l42" />
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/day26_l5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/day26_l5" />
+
+</LinearLayout>

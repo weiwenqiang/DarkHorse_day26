@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">day26</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="day26_b1">五大布局</string>
+    <string name="day26_b2">LogCat输出信息</string>
+    <string name="day26_b3">文件内部存储</string>
+    <string name="day26_b4">SD卡外部存储</string>
+    <string name="day26_b5">过时Preference显示</string>
+    <string name="day26_b6">创建文件时的权限</string>
+    <string name="day26_b7">SharedPreferences存储</string>
+    <string name="day26_b8">xml短信备份</string>
+    <string name="day26_b9">xml序列化器短信备份</string>
+    <string name="day26_b10">PullParser解析xml</string>
+    
+    <string name="day26_l1">帧布局</string>
+    <string name="day26_l21">线性布局</string>
+    <string name="day26_l22">线性色盘</string>
+    <string name="day26_l3">表格布局</string>
+    <string name="day26_l41">相对布局</string>
+    <string name="day26_l42">相对样例</string>
+    <string name="day26_l5">绝对布局</string>
+    
+    <string name="day26_plt">左上角</string>
+    <string name="day26_prt">右上角</string>
+    <string name="day26_pbl">左下角</string>
+    <string name="day26_pbr">右下角</string>
+    <string name="day26_ch">水平居中</string>
+    <string name="day26_cv">垂直居中</string>
+    <string name="day26_cbh">水平居中靠底部</string>
+    <string name="day26_crv">垂直居中靠右</string>
+    <string name="day26_cip">居中</string>
+    <string name="day26_tal">切左上</string>
+    <string name="day26_tar">切右上</string>
+    <string name="day26_tbl">切左下</string>
+    <string name="day26_tbr">切右下</string>
+    <string name="day26_qb">下方</string>
+    <string name="day26_qr">右方</string>
+    <string name="day26_qrb">左方</string>
+    <string name="day26_qtl">上左右</string>
+    <string name="day26_mtl">相对左上距离</string>
+    <string name="day26_mtr">相对右上距离</string>
+    <string name="day26_mbl">相对左下距离</string>
+    <string name="day26_mbr">相对右下距离</string>
+    <string name="day26_center">中心</string>
+    <string name="day26_centera">上</string>
+    <string name="day26_centerl">下</string>
+    <string name="day26_centerr">左</string>
+    <string name="day26_centerb">右</string>
+    <string name="day26_centeral">左上方</string>
+    <string name="day26_centerbl">左下方</string>
+    <string name="day26_centerar">右上方</string>
+    <string name="day26_centerbr">右下方</string>
+    
+    <string name="day26_verbose">冗余</string>
+    <string name="day26_debug">调试</string>
+    <string name="day26_info">信息</string>
+    <string name="day26_warn">警告</string>
+    <string name="day26_error">错误</string>
+    <string name="day26_assert">断言</string>
+    
+    <string name="day26_username">用户名</string>
+    <string name="day26_userpassword">密码</string>
+    <string name="day26_checkbox">记住用户名密码</string>
+    <string name="day26_login">登录</string>
+    <string name="day26_visit1">仅拥有者可读写</string>
+    <string name="day26_visit2">同组成员可读写</string>
+    <string name="day26_visit3">任何用户可读写</string>
+    <string name="day26_backups">备份短信</string>
+	<string name="day26_pullparser">解析天气xml文件</string>
+	<string name="day26_pulltext">点击按钮显示解析结果</string>
+</resources>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/day26_verbose"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:paddingTop="5dp"
+        android:text="@string/day26_verbose"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/day26_debug"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:paddingTop="5dp"
+        android:text="@string/day26_debug"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/day26_info"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:paddingTop="5dp"
+        android:text="@string/day26_info"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/day26_warn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:paddingTop="5dp"
+        android:text="@string/day26_warn"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/day26_error"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:paddingTop="5dp"
+        android:text="@string/day26_error"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/day26_asser"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:paddingTop="5dp"
+        android:text="@string/day26_assert"
+        android:textSize="20sp" />
+
+</LinearLayout>

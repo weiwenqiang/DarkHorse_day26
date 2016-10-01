@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <TextView
+        android:layout_width="10dp"
+        android:layout_height="10dp"
+        android:layout_x="260dp"
+        android:layout_y="400dp"
+        android:background="#000000" />
+
+    <TextView
+        android:layout_width="10dp"
+        android:layout_height="10dp"
+        android:layout_x="260dp"
+        android:layout_y="410dp"
+        android:background="#ff0000" />
+
+    <TextView
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:layout_x="240dp"
+        android:layout_y="400dp"
+        android:background="#ffff00" />
+
+    <TextView
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_x="240dp"
+        android:layout_y="370dp"
+        android:background="#00ff00" />
+
+    <TextView
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_x="270dp"
+        android:layout_y="370dp"
+        android:background="#00ffff" />
+
+    <TextView
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_x="240dp"
+        android:layout_y="420dp"
+        android:background="#0000ff" />
+
+    <TextView
+        android:layout_width="130dp"
+        android:layout_height="130dp"
+        android:layout_x="110dp"
+        android:layout_y="370dp"
+        android:background="#ff00ff" />
+
+    <TextView
+        android:layout_width="210dp"
+        android:layout_height="210dp"
+        android:layout_x="110dp"
+        android:layout_y="160dp"
+        android:background="#ff0000" />
+
+    <TextView
+        android:layout_width="340dp"
+        android:layout_height="340dp"
+        android:layout_x="320dp"
+        android:layout_y="160dp"
+        android:background="#ffff00" />
+
+    <TextView
+        android:layout_width="550dp"
+        android:layout_height="550dp"
+        android:layout_x="110dp"
+        android:layout_y="500dp"
+        android:background="#00ff00" />
+
+    <TextView
+        android:layout_width="890dp"
+        android:layout_height="890dp"
+        android:layout_x="-780dp"
+        android:layout_y="160dp"
+        android:background="#00ffff" />
+
+    <TextView
+        android:layout_width="1440dp"
+        android:layout_height="1440dp"
+        android:layout_x="-780dp"
+        android:layout_y="-1280dp"
+        android:background="#0000ff" />
+
+    <TextView
+        android:layout_width="10dp"
+        android:layout_height="1dp"
+        android:layout_x="160dp"
+        android:layout_y="240dp"
+        android:background="#000000" />
+
+    <TextView
+        android:layout_width="1dp"
+        android:layout_height="10dp"
+        android:layout_x="160dp"
+        android:layout_y="240dp"
+        android:background="#000000" />
+
+    <TextView
+        android:layout_width="1dp"
+        android:layout_height="10dp"
+        android:layout_x="170dp"
+        android:layout_y="240dp"
+        android:background="#000000" />
+
+    <TextView
+        android:layout_width="20dp"
+        android:layout_height="1dp"
+        android:layout_x="160dp"
+        android:layout_y="250dp"
+        android:background="#000000" />
+
+    <TextView
+        android:layout_width="10dp"
+        android:layout_height="1dp"
+        android:layout_x="170dp"
+        android:layout_y="240dp"
+        android:background="#000000" />
+
+    <TextView
+        android:layout_width="1dp"
+        android:layout_height="30dp"
+        android:layout_x="180dp"
+        android:layout_y="240dp"
+        android:background="#000000" />
+
+    <TextView
+        android:layout_width="50dp"
+        android:layout_height="1dp"
+        android:layout_x="130dp"
+        android:layout_y="270dp"
+        android:background="#000000" />
+
+    <TextView
+        android:layout_width="1dp"
+        android:layout_height="20dp"
+        android:layout_x="160dp"
+        android:layout_y="250dp"
+        android:background="#000000" />
+
+    <TextView
+        android:layout_width="30dp"
+        android:layout_height="1dp"
+        android:layout_x="130dp"
+        android:layout_y="240dp"
+        android:background="#000000" />
+
+    <TextView
+        android:layout_width="1dp"
+        android:layout_height="80dp"
+        android:layout_x="130dp"
+        android:layout_y="190dp"
+        android:background="#000000" />
+
+    <TextView
+        android:layout_width="1dp"
+        android:layout_height="50dp"
+        android:layout_x="180dp"
+        android:layout_y="190dp"
+        android:background="#000000" />
+
+    <TextView
+        android:layout_width="130dp"
+        android:layout_height="1dp"
+        android:layout_x="130dp"
+        android:layout_y="190dp"
+        android:background="#000000" />
+
+    <TextView
+        android:layout_width="80dp"
+        android:layout_height="1dp"
+        android:layout_x="180dp"
+        android:layout_y="270dp"
+        android:background="#000000" />
+
+    <TextView
+        android:layout_width="1dp"
+        android:layout_height="210dp"
+        android:layout_x="260dp"
+        android:layout_y="190dp"
+        android:background="#000000" />
+
+    <TextView
+        android:layout_width="1dp"
+        android:layout_height="130dp"
+        android:layout_x="130dp"
+        android:layout_y="270dp"
+        android:background="#000000" />
+
+    <TextView
+        android:layout_width="340dp"
+        android:layout_height="1dp"
+        android:layout_x="-80dp"
+        android:layout_y="400dp"
+        android:background="#000000" />
+
+    <TextView
+        android:layout_width="210dp"
+        android:layout_height="1dp"
+        android:layout_x="-80dp"
+        android:layout_y="190dp"
+        android:background="#000000" />
+
+    <TextView
+        android:layout_width="1dp"
+        android:layout_height="340dp"
+        android:layout_x="260dp"
+        android:layout_y="-70dp"
+        android:background="#000000" />
+
+    <TextView
+        android:layout_width="550dp"
+        android:layout_height="1dp"
+        android:layout_x="260dp"
+        android:layout_y="400dp"
+        android:background="#000000" />
+
+</AbsoluteLayout>
